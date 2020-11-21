@@ -1,0 +1,11 @@
+
+
+you should not do that:
+GIT_SSL_NO_VERIFY=true git clone ...
+
+but it's the laziest way.
+
+1. it has a certificate, but it's not signed 
+2. tor is encrypted too
+3. check the hashes of the git repository
+
