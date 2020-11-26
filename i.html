@@ -92,6 +92,10 @@ font.monospace
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
+        console.log(">");
+        console.log(allCards);
+        if (allCards == allCards)
+          return;
 	for (i=0; i<allCards.length; i++)
 	{
 		allCards[i].style = "border: 10px solid #222;float:left;text-align:center;";
