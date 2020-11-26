@@ -20,6 +20,7 @@ echo  "../png/$1/ => ../jpg/$1/"
 mkdir --parents ../jpg/$1
 
 cp ../index.php ../jpg/$1
+cp ../modal.js ../jpg/$1
 cp cardNames.csv ../jpg/$1
 
 
