@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     <span class="close">&times;</span>
     <p><font size=20em><b>WARNING</b></font></p>
     <p><font size=15em><b>HackersCardgame.ch is not a Game</font></p>
-    <font color=black size=5em>HackersCardgame cards are learning cards to defend against Psychological Warfare, i try to LEAK attacks agaist me to make it easier for others if <font color=purple>satan@militaryDicatorship</font> uses the same attacking vectors, against others; to quote <font color=green>Julian Assange</font>: see m173 <br>
+    <font color=black size=5em>HackersCardgame cards are learning cards to defend against Psychological Warfare, i try to LEAK attacks agaist me to make it easier for others if <font color=purple>satan@militaryDicatorship</font> uses the same attacking vectors against others; to quote <font color=green>Julian Assange</font>: see m173 <br>
 <font size=4em>if you ended up here it's maybe already to late and you are already Targeted Individual, if not they you really really don't want to be here. If you are already targeted maybe this informations helps you a bit to defend against satan. <font color=blue>If you are already a Targeted Individual: having a MEDIC nearby would definitely be a prerequisit</font>! no joke: <a href="./m32.jpg">m32.jpg</a><br><br><font color=tomato>(you may press escape now,<font color=cyan> you can not continue with the handy)</font></font></font></p>
     <button id=s0 onClick="transformationFigure='♖'; continueTransformation()">♜</button>
     <button id=s1>♞</button>
